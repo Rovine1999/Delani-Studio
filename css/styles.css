@@ -1,58 +1,14 @@
-body{
-	margin: 0;
-	padding: 0;
-	height: auto;
-    background: black;
-}
-.container{
-	margin: inherit;
-    width: inherit;
-}
-.first-text{
-	background: transparent;
-	font-weight: bold;
+h1 {
     text-align: center;
-    font-size-adjust: auto;
-    font-size: 60px;
-    color: white;
-    text-emphasis:bold;
 }
-.section1{
-    background: url(assets/h_img.jpg) no-repeat;
-    
+
+.rovine {
+    align-items: center;
 }
-.logo{
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
-    margin-top: 100px;
+
+.rovine p1 {
+    margin-left: 40%;
 }
-.section2{
-    background: whitesmoke;
-    height: 300px;
+.rovine p2 {
+    margin-left: 39%;
 }
-.second-text{
-    color: black;
-    text-align: center;
-    background: transparent;
-    font-size-adjust: auto;  
-    
-}
-.section3{
-    height: 300px;
-    background: url(assets/s_image.jpg) no-repeat;
-}
-.third-text{
-    text-align: center;
-    background: transparent;
-    color: white;
-}
-.fourth-text{
-    text-align: center;
-    color: white;
-    font-weight: 200;
-}
-.section4{
-    background: whitesmoke;
-    height:auto;
-} 
