@@ -23,3 +23,15 @@ h4 {
 .design{
     display: none;
 }
+
+.dev {
+    display: none;
+}
+
+.product {
+    display: none;
+}
+
+h6 {
+    text-align: center;
+}
