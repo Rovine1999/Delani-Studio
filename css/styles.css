@@ -41,3 +41,6 @@ h6{
     background-size: cover;
 }
 
+.col-md-3 img overlay {
+    transition: 5s ease;
+}
