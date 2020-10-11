@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".col-md-4").click(function() {
+    $(".rov").click(function() {
         $("#design").toggle();
         $(".design").toggle();
     });
