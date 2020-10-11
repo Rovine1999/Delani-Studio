@@ -1,14 +1,14 @@
-h1 {
-    text-align: center;
+.home  h2 {
+    width: 100%;
+    height: 70%;
+    background-image: url('/image/h_img.jpg');
 }
 
-.rovine {
+.services {
+    background-image: url('/image/s_image.jpg');
+    background-size: cover;
+}
+
+h2 {
     align-items: center;
-}
-
-.rovine p1 {
-    margin-left: 40%;
-}
-.rovine p2 {
-    margin-left: 39%;
 }
