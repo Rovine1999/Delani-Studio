@@ -1,7 +1,8 @@
-.home  h2 {
+.home{
     height: 100vh;
-    background-image: url('../image/s_image.jpg');
+    background-image: url('../image/h_img.jpg');
     background-size: cover;
+    align-items: center;
 }
 
 .services {
@@ -9,6 +10,6 @@
     background-size: cover;
 }
 
-h1 {
+h2 {
     align-items: center;
 }
