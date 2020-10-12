@@ -52,3 +52,8 @@ h6{
 .form-control ::placeholder{
     color: white;
 }
+
+.social-icons {
+    margin-left: 30%;
+    justify-content: space-between 5px;
+}
