@@ -37,10 +37,18 @@ h6{
 }
 
 .contact {
-    background-image: url('..image/c_image.jpg');
+    background-image: url('/image/c_image.jpg');
     background-size: cover;
 }
 
 .eddy {
     margin-left: 20%;
+}
+
+#name, #email, #message {
+    background-color: transparent;
+    color: white;
+}
+.form-control ::placeholder{
+    color: white;
 }
