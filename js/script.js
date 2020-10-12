@@ -21,9 +21,18 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $("#photo1").mouseover(function() {
-      $("#overlay").show();
+      $("#overlay1").show();
   })
   .mouseout(function() {
-      $("#overlay").hide();
+      $("#overlay1").hide();
   })
 });
+
+$(document).ready(function() {
+    $("#photo2").mouseover(function() {
+        $("#overlay2").show();
+    })
+    .mouseout(function() {
+        $("#overlay2").hide();
+    })
+  });
