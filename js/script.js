@@ -54,3 +54,45 @@ $(document).ready(function() {
         $("#overlay4").hide();
     })
   });
+
+  $(document).ready(function() {
+    $("#photo5").mouseover(function() {
+        $("#overlay5").show();
+    })
+    .mouseout(function() {
+        $("#overlay5").hide();
+    })
+  });
+
+  $(document).ready(function() {
+    $("#photo6").mouseover(function() {
+        $("#overlay6").show();
+    })
+    .mouseout(function() {
+        $("#overlay6").hide();
+    })
+  });
+
+  $(document).ready(function() {
+    $("#photo7").mouseover(function() {
+        $("#overlay7").show();
+    })
+    .mouseout(function() {
+        $("#overlay7").hide();
+    })
+  });
+
+  $(document).ready(function() {
+    $("#photo8").mouseover(function() {
+        $("#overlay8").show();
+    })
+    .mouseout(function() {
+        $("#overlay8").hide();
+    })
+  });
+
+function myFunction() {
+ var name = document.getElementById("name").value;
+ alert("We've recieved your message" + " " + name);
+};
+
