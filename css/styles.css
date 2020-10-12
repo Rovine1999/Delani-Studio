@@ -40,3 +40,7 @@ h6{
     background-image: url('..image/c_image.jpg');
     background-size: cover;
 }
+
+.eddy {
+    margin-left: 20%;
+}
