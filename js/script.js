@@ -18,3 +18,12 @@ $(document).ready(function() {
         $(".product").toggle();
     });
 });
+
+$(document).ready(function() {
+  $("#photo1").mouseover(function() {
+      $("#overlay").show();
+  })
+  .mouseout(function() {
+      $("#overlay").hide();
+  })
+});
