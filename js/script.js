@@ -93,6 +93,6 @@ $(document).ready(function() {
 
 function myFunction() {
  var name = document.getElementById("name").value;
- alert("We've recieved your message, Thank for reaching out to us" + " " + name);
+ alert("We've recieved your message. Thank you for reaching out to us" + " " + name);
 };
 
