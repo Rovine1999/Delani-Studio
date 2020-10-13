@@ -49,7 +49,13 @@ h6{
     background-color: transparent;
     color: white;
 }
-.form-control ::placeholder{
+#name::placeholder{
+    color: white;
+}
+#message::placeholder {
+    color: white;
+}
+#email::placeholder {
     color: white;
 }
 
